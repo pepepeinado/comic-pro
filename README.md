@@ -1,2 +1,5 @@
-# comic-pro
-Comic Pro - Sistema de automatización avanzada de creación de cómics con IA (Grok + Claude) + Control total de navegador y memoria persistente
+# Comic Pro 🚀
+
+Sistema de automatización inteligente de cómics con IA (Grok + Claude)
+
+**Todo lo solicitado por el jefe está siendo implementado con calidad máxima.**

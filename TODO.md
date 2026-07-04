@@ -1,0 +1,1 @@
+Mantener lista de TODOS los requisitos del usuario (no olvidar nada)

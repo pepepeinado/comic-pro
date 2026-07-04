@@ -1,0 +1,10 @@
+{
+  "name": "comic-pro",
+  "version": "1.0.0",
+  "description": "El mejor generador automático de cómics del mundo",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "electron .",
+    "build": "electron-builder"
+  }
+}
